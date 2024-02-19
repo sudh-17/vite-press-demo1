@@ -48,5 +48,6 @@ export default defineConfig({
   // 重写路由，没成功
   rewrites: {
     '/re.md': '/re2.md'
-  }
+  },
+  base: '/vite-press-demo1/'
 })
