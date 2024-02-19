@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,V as n}from"./chunks/framework.jQSxqxcz.js";const F=JSON.parse('{"title":"手写编程","description":"","frontmatter":{},"headers":[],"relativePath":"js基础/什么是原型.md","filePath":"js基础/什么是原型.md"}'),h={name:"js基础/什么是原型.md"},t=n("",5),k=[t];function l(p,e,r,E,d,g){return a(),i("div",null,k)}const c=s(h,[["render",l]]);export{F as __pageData,c as default};

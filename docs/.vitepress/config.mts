@@ -22,7 +22,7 @@ export default defineConfig({
           {
             text: '手写编程',
             link: '/js基础/test',
-            items: [{ text: '手写bindfdf', link: '/js基础/test' }]
+            items: [{ text: '手写测试啦', link: '/js基础/test' }]
           }
         ]
       }
@@ -44,5 +44,9 @@ export default defineConfig({
 
       // 其余 locale 特定属性...
     }
+  },
+  // 重写路由，没成功
+  rewrites: {
+    '/re.md': '/re2.md'
   }
 })
